@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-
 /**
- * main - Prints out the sizes of various data types on the computer
+ * main -Entry 
  *
- * Return: 0 if success
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
