@@ -1,17 +1,11 @@
 #include <stdio.h>
 /**
+ *  main - Entry point
  *
- *  * main - Entry point
+ *  Description: 'Prints the Programiming is like building a multilingual puzzle'
  *
- *   * 
- *
- *    * Description: 'Prints the Programiming is like building a multilingual puzzle'
- *
- *     * 
- *
- *      * Return: Always 0 (Success)
- *
- *       */
+ *  Return: Always 0 (Success)
+ */
 
 int main(void)
 {
