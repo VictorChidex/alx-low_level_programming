@@ -3,11 +3,11 @@
 /** 
  * Print_alphabets
  */
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
-	char c;
+	char alphabet;
 
-	for (c = 'a'; c <= 'z'; c++)
-		_putchar(c);
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+		_putchar(alphabet);
 	_putchar('\n');
 }
