@@ -17,6 +17,8 @@ General
 * The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 * Don’t forget to push your header file
 
-Tasks
+Tasks:
+
 0. _putchar
+* Write a program that prints _putchar, followed by a new line. The program should return 0
 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
